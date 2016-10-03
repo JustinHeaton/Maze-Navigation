@@ -16,9 +16,13 @@ This project requires **python 2.7** to be installed.
 * **maze.py** - This script contains the functions which build the maze environment to be navigated by the robot.
 * **tester.py** - This is the script which will be run to initiate the robot’s movement through the maze and to test whether the model is successful in completing the project.
 * **showmaze.py** - This script can be used to visualize the maze.
+
+### Additional Files
+
 * **test_maze_01.txt** - Contains the specifications for a 12 x 12 maze.
 * **test_maze_02.txt** - Contains the specifications for a 14 x 14 maze.
 * **test_maze_03.txt** - Contains the specifications for a 16 x 16 maze.
+* **Report.pdf** - The report which describes the process that I went to in solving the problem and coding the solution.
 
 ### Run
 
